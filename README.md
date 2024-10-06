@@ -16,6 +16,19 @@
 💬 Ask me about Web Development.  
 📫 How to reach me: [22wh1a12c5@bvrithyderabad.edu.in](mailto:22wh1a12c5@bvrithyderabad.edu.in)  
 😄 Pronouns: She/Her
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jahnavika gopal&theme=radical" alt="Profile Summary">
+</td>
+<td>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Jahnavika gopal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahnavika gopal&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
 
 ## Skills
 
