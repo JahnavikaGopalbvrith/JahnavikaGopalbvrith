@@ -27,7 +27,8 @@
 </td>
 </tr>
 </table>
-## Skills
+
+**Skills**
 
 - **Languages:** Python, Java, C++
 - **Full Stack Development:** HTML, CSS, JS, React.js, JDBC, Bootstrap
