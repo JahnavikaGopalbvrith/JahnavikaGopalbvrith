@@ -1,8 +1,6 @@
 ## Hi 👋, I’m Jahnavika Gopal
 
-<p align="center">
-  <img src="https://example.com/path-to-your-image.png" alt="Banner">
-</p>
+
 
 **About Me**
 
@@ -19,17 +17,16 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jahnavika gopal&theme=radical" alt="Profile Summary">
+  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JahnavikaGopalbvrith&theme=radical" alt="Profile Summary">
 </td>
 <td>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Jahnavika gopal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=JahnavikaGopalbvrith&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahnavika gopal&theme=radical" alt="Streak Stats"/>
+  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=JahnavikaGopalbvrith&theme=radical" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
-
 ## Skills
 
 - **Languages:** Python, Java, C++
