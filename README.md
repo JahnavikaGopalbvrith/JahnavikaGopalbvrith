@@ -31,6 +31,6 @@
 **Skills**
 
 - **Languages:** Python, Java, C++
-- **Full Stack Development:** HTML, CSS, JS, React.js, JDBC, Bootstrap
+- **Full Stack Development:** HTML, CSS, JS, React.js, JDBC, Bootstrap,SpringBoot
 - **Databases:** MySQL
 
