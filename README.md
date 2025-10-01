@@ -33,15 +33,7 @@
   </a>
 </p>
 ---
-###💼 Internship - 
-Java Full Stack Development Intern — Smart Mieten Tech Pvt Ltd (Mar 2024 – Jun 2024) Java, JSP, Servlets, MySQL → Developed ZenCart using MVC architecture with backend–database integration.
----
-###🌍 Open Source Contributions -
-GirlScript Summer of Code (GSSoC) Extended 2024 → Contributed to multiple repositories using React, Java, Node.js. → Ranked in the Top 200 out of 32,000+ contributors. 
----
-###🏆 Certifications - 
-Postman API Fundamentals Student Expert – Postman (2024) - GirlScript Summer of Code (Extended Edition) – Rank: 183 (2024) - Java Full Stack Development – Smart Mieten Tech Pvt Ltd (2024) - AI-Powered Apps 2023 – L4G (2023)
----
+
 
 
 ### 🚀 Tech Stack Expertise  
