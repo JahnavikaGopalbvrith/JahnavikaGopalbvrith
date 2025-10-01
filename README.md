@@ -3,10 +3,10 @@
 **Full Stack Developer | Open Source Enthusiast | AI/ML Explorer**  
 <img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Explore my projects: [SmartPrep](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-Natural-Language-Processing) • [ZenCart](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website)  
+- 🔭 Explore my projects:> [SmartPrep](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-Natural-Language-Processing) > [ZenCart](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website)  >[Life-of-Rhythm](https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms)
 - 🌱 Currently applying **Generative AI** to solve real-world problems  
 - 👩‍💻 Experienced in **Java, React, Node.js, JSP, Servlets, MySQL, AI/ML (LLMs, NLP)**  
-- 🎯 Preparing for **Placements** & **GATE 2026 (CS)**  
+- 🎯 Preparing for **Placements**  
 - ⚡ Fun Fact:  Night owl by nature—my best code comes after sunset 🌙.
 - 📫 Reach me at: [jahnavikagopal@gmail.com](mailto:jahnavikagopal@gmail.com)  
 
@@ -32,8 +32,17 @@
     <img src="https://leetcard.jacoblin.cool/Jahnavika-09?ext=contest&theme=dark" />
   </a>
 </p>
-
 ---
+###💼 Internship - 
+Java Full Stack Development Intern — Smart Mieten Tech Pvt Ltd (Mar 2024 – Jun 2024) Java, JSP, Servlets, MySQL → Developed ZenCart using MVC architecture with backend–database integration.
+---
+###🌍 Open Source Contributions -
+GirlScript Summer of Code (GSSoC) Extended 2024 → Contributed to multiple repositories using React, Java, Node.js. → Ranked in the Top 200 out of 32,000+ contributors. 
+---
+###🏆 Certifications - 
+Postman API Fundamentals Student Expert – Postman (2024) - GirlScript Summer of Code (Extended Edition) – Rank: 183 (2024) - Java Full Stack Development – Smart Mieten Tech Pvt Ltd (2024) - AI-Powered Apps 2023 – L4G (2023)
+---
+
 
 ### 🚀 Tech Stack Expertise  
 <p align="center">
