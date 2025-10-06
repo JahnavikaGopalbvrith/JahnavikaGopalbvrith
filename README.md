@@ -76,8 +76,9 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JahnavikaGopalbvrith&theme=radical&show_icons=true&hide_border=false" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JahnavikaGopalbvrith&theme=radical&hide_border=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=JahnavikaGopalbvrith&theme=radical&hide_border=false" height="150"/>
 </p>
+
 
 
 ---
