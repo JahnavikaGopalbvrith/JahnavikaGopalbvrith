@@ -4,16 +4,19 @@
 <img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Explore my projects:  
-  [![SmartPrep](https://img.shields.io/badge/SmartPrep-LLM_NLP-blue?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-Natural-Language-Processing) 
-  [![ZenCart](https://img.shields.io/badge/ZenCart-GiftShop-orange?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website) 
-  [![Life-of-Rhythm](https://img.shields.io/badge/Life-of-Rhythm-Music-purple?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms)
+ 
+[![SmartPrep](https://img.shields.io/badge/SmartPrep-LLM_NLP-blue?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-Natural-Language-Processing)  
+[![ZenCart](https://img.shields.io/badge/ZenCart-GiftWebsite-orange?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website)  
+[![Life-of-Rhythm](https://img.shields.io/badge/Life-of-Rhythm-Music-purple?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms)
+
+
 - 🌱 Currently applying **Generative AI** to solve real-world problems  
 - 👩‍💻 Experienced in **Java, React, Node.js, JSP, Servlets, MySQL, AI/ML (LLMs, NLP)**  
 - 🎯 Preparing for **Placements**  
 - ⚡ Fun Fact: Night owl by nature—my best code comes after sunset 🌙  
 - 📫 Reach me at: [jahnavikagopal@gmail.com](mailto:jahnavikagopal@gmail.com)  
 
----
+
 
 ### 🚀 Tech Stack Expertise  
 <p align="center">
@@ -62,6 +65,13 @@
 
 ---
 
+
+## My Badges 🏅
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</p>
+
+---
 ### 🌐 Social Presence  
 <p align="center">
   <a href="https://www.linkedin.com/in/jahnavika-gopal-600576259/">
