@@ -1,40 +1,19 @@
-## Hi there 👋 I'm Jahnavika Gopal  
+# Hi there 👋 I'm Jahnavika Gopal  
 
 **Full Stack Developer | Open Source Enthusiast | AI/ML Explorer**  
 <img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Explore my projects:> [SmartPrep](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-Natural-Language-Processing) > [ZenCart](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website)  >[Life-of-Rhythm](https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms)
+- 🔭 Explore my projects:  
+  [![SmartPrep](https://img.shields.io/badge/SmartPrep-LLM_NLP-blue?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-Natural-Language-Processing) 
+  [![ZenCart](https://img.shields.io/badge/ZenCart-GiftShop-orange?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website) 
+  [![Life-of-Rhythm](https://img.shields.io/badge/Life-of-Rhythm-Music-purple?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms)
 - 🌱 Currently applying **Generative AI** to solve real-world problems  
 - 👩‍💻 Experienced in **Java, React, Node.js, JSP, Servlets, MySQL, AI/ML (LLMs, NLP)**  
 - 🎯 Preparing for **Placements**  
-- ⚡ Fun Fact:  Night owl by nature—my best code comes after sunset 🌙.
+- ⚡ Fun Fact: Night owl by nature—my best code comes after sunset 🌙  
 - 📫 Reach me at: [jahnavikagopal@gmail.com](mailto:jahnavikagopal@gmail.com)  
 
-
-
---
-### 🌐 Social Presence  
-<p align="center">
-  <a href="https://www.linkedin.com/in/jahnavika-gopal-600576259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jahnavika%20Gopal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Followers-833-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Connections-500%2B-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Jahnavika-09/">
-    <img src="https://img.shields.io/badge/LeetCode-Jahnavika-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/Jahnavika-09/">
-    <img src="https://leetcard.jacoblin.cool/Jahnavika-09?ext=contest&theme=dark" />
-  </a>
-</p>
 ---
-
-
 
 ### 🚀 Tech Stack Expertise  
 <p align="center">
@@ -48,7 +27,6 @@
   <img height="50" src="https://img.icons8.com/color/48/nodejs.png"/>
   <img height="50" src="https://img.icons8.com/color/48/spring-logo.png"/>
   <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-
 </p>
 
 ---
@@ -59,7 +37,6 @@
   <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png"/>
   <img height="50" src="https://img.icons8.com/color/48/git.png"/>
   <img height="50" src="https://img.icons8.com/color/48/github.png"/>
-
 </p>
 
 ---
@@ -73,16 +50,38 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats & Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JahnavikaGopalbvrith&theme=radical&show_icons=true&hide_border=false" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=JahnavikaGopalbvrith&theme=radical&hide_border=false" height="150"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnavikaGopalbvrith&layout=compact&theme=radical"/>
+</p>
 
 ---
 
+### 🌐 Social Presence  
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahnavika-gopal-600576259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jahnavika%20Gopal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Followers-833-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connections-500%2B-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Jahnavika-09/">
+    <img src="https://img.shields.io/badge/LeetCode-Jahnavika-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  [![Holopin Badges](https://holopin.me/jahnavikagopalbvrith)](https://holopin.io/@jahnavikagopalbvrith)
+</p>
+
+---
 
 ### 🙌 Let’s Connect  
 I love building meaningful tech and collaborating with passionate minds.  
