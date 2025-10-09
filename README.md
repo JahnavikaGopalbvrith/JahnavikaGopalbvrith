@@ -77,10 +77,9 @@
   </a>
 </p>
 
-<p align="center">
-  [![Holopin Badges](https://holopin.me/jahnavikagopalbvrith)](https://holopin.io/@jahnavikagopalbvrith)
-</p>
 
+## Hacktoberfest'24 Badges
+[![An image of @akshithachiluka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jahnavikagopalbvrith)](https://holopin.io/@jahnavikagopalbvrith)
 ---
 
 ### 🙌 Let’s Connect  
