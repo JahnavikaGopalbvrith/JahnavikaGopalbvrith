@@ -3,15 +3,6 @@
 **Full Stack Developer | Open Source Enthusiast | AI/ML Explorer**  
 <img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
- 
- 
-🔭 Explore my projects:  
-[![SmartPrep](https://img.shields.io/badge/SmartPrep-LLM_NLP-blue?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/SmartPrep-Adaptive-Learning-with-LLM-NLP)  
-[![ZenCart](https://img.shields.io/badge/ZenCart-GiftWebsite-orange?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/ZenCart-a-gift-shopping-website)  
-[![Life-of-Rhythms](https://img.shields.io/badge/Life-of-Rhythms-Music-purple?style=for-the-badge)](https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms)
-
-
-
 
 - 🌱 Currently applying **Generative AI** to solve real-world problems  
 - 👩‍💻 Experienced in **Java, React, Node.js, JSP, Servlets, MySQL, AI/ML (LLMs, NLP)**  
